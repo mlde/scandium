@@ -1,0 +1,2 @@
+# scandium
+classic workspace switcher
